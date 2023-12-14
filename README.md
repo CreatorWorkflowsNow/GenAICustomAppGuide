@@ -1,10 +1,10 @@
-## GenAI Custom App Guide
+# GenAI Custom App Guide
 
-### Setting up the Generative AI Controller
+## Setting up the Generative AI Controller
 https://docs.servicenow.com/bundle/vancouver-intelligent-experiences/page/administer/generative-ai-controller/task/configure-generative-ai-controller.html
 
-### Associated on platform GenAI Quick Start Guide
+## Now Community: Now Assist Quick Start Guide
 https://www.servicenow.com/community/ai-intelligence-articles/now-assist-quick-start-guide/ta-p/2685044
 
-### Exmaple Use Video
+## Exmaple Use Video
 https://youtu.be/wjnQ9aEZUk4
