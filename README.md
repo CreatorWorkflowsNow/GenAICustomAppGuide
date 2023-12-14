@@ -6,5 +6,5 @@ https://docs.servicenow.com/bundle/vancouver-intelligent-experiences/page/admini
 ## Now Community: Now Assist Quick Start Guide
 https://www.servicenow.com/community/ai-intelligence-articles/now-assist-quick-start-guide/ta-p/2685044
 
-## Exmaple Use Video
+## Example Use Video
 https://youtu.be/wjnQ9aEZUk4
