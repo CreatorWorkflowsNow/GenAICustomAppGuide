@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Accelerated GenAI-Powered Table Build for New Custom Application">0e194a2a47473514c4b9b66b416d4396</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>steven.jefferson</sys_created_by>
+        <sys_created_on>2023-12-14 15:48:43</sys_created_on>
+        <sys_id>66198a2a47473514c4b9b66b416d430a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Accelerated GenAI-Powered Table Build for New Custom Application.Any User</sys_name>
+        <sys_package display_value="GenAIGuide" source="x_snc_genaiguide">f4c8cee647473514c4b9b66b416d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GenAIGuide">f4c8cee647473514c4b9b66b416d4394</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_66198a2a47473514c4b9b66b416d430a</sys_update_name>
+        <sys_updated_by>steven.jefferson</sys_updated_by>
+        <sys_updated_on>2023-12-14 15:48:43</sys_updated_on>
+        <user_criteria display_value="Any User">f747c16473e72010565db0a8d4f6a7e2</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

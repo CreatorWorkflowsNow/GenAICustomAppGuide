@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Accelerated GenAI-Powered Table Build for New Custom Application">0e194a2a47473514c4b9b66b416d4396</sc_cat_item>
+        <sc_category display_value="Services">d67c446ec0a80165000335aa37eafbc1</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>steven.jefferson</sys_created_by>
+        <sys_created_on>2023-12-14 15:48:42</sys_created_on>
+        <sys_id>52194a2a47473514c4b9b66b416d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Copy of Accelerated GenAI-Powered Table Build for New Custom Application</sys_name>
+        <sys_package display_value="GenAIGuide" source="x_snc_genaiguide">f4c8cee647473514c4b9b66b416d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GenAIGuide">f4c8cee647473514c4b9b66b416d4394</sys_scope>
+        <sys_update_name>sc_cat_item_category_52194a2a47473514c4b9b66b416d43a8</sys_update_name>
+        <sys_updated_by>steven.jefferson</sys_updated_by>
+        <sys_updated_on>2023-12-14 15:48:42</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
